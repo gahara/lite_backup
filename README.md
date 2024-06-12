@@ -1,3 +1,5 @@
-# lite_backup
+# 
 
 "backups" for sqlite
+
+`go get github.com/gahara/litebackup`
