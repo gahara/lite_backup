@@ -1,4 +1,4 @@
-package main
+package lite_backup
 
 import (
 	"io"

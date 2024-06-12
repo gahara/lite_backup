@@ -1,8 +1,8 @@
-package main
+package lite_backup
 
 import "os"
 
-func main() {
+func testRun() {
 	args := os.Args
 	src := args[1]
 	dst := args[2]
