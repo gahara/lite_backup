@@ -1,3 +1,3 @@
-module github.com/gahara/lite_backup
+module github.com/gahara/litebackup
 
 go 1.21.0
