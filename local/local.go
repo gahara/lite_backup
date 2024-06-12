@@ -1,4 +1,4 @@
-package lite_backup
+package local
 
 import (
 	"io"
